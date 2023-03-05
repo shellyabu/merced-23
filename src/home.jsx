@@ -1,3 +1,4 @@
+import * as React from 'react';
 import {
     createAccount,
     updateOnAuthStateChanged,
@@ -135,6 +136,7 @@ import {
                 }}
                 disabled={user ? false : true}
               >
+                <Button>Send</Button>
               </IconButton>
             </InputAdornment>
           }
@@ -174,3 +176,5 @@ import {
       </Stack>
     );
   }
+  
+  
