@@ -1,7 +1,7 @@
 {
   "name": "merced-23",
   "version": "0.1.0",
-  "homepage": "https://shellyabu.github.io/merced-23/",
+  "homepage": "https://shellyabu.github.io/merced-23",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
