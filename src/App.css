@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: white;
 }
 
 .form{
@@ -17,4 +18,11 @@
 
 body{
   background: burlywood;
+}
+
+.scene{
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
 }
