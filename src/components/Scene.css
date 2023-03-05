@@ -1,0 +1,22 @@
+section{
+    border-radius: 15px;
+    background: linear-gradient(rgb(133, 138, 227), rgb(151, 223, 252));
+    padding: 21.5%;
+    position: relative;
+}
+
+ 
+section img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 23%;
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+section img#trees{
+    z-index: 1;
+}
+
